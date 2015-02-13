@@ -1,0 +1,64 @@
+<html>
+<head>
+<style>
+  .SeijiM {
+    Color: red; 
+    text-align:center;
+  }
+  
+  .AllBoxs{
+    width:371px;
+  
+  }
+  
+  
+  .BoxOne {
+    Font-family: georgia;
+    font-size: 30;
+    width:101px;
+    float:left;
+    border-style: dotted solid;
+    padding:100px;
+    height:35px;
+    text-align:center;
+  }
+  
+  .BoxTwo {
+    Font-family: georgia;
+    font-size:30;
+    width:270px;
+    float:left; 
+    border-style: dotted solid;
+    padding:83px;
+    text-align:center; 
+  }
+
+  .BoxThree {
+    font-family:georgia;
+    font-size:90px;
+    border-style: solid;
+    border-width: 5px;
+    width:auto;
+    text-align:center;
+    background-color:white;
+    
+  }
+  
+</style>
+</head>
+<body>
+
+
+<h1 class="SeijiM">Welcome to my Website of Seiji Raul Mendoza Tamamura</h1>
+
+<div class="AllBox">
+<div class="BoxOne">This is my Section </div>
+<div class="BoxTwo">This is my second Section</div>
+</div>
+
+<div>
+<div class="BoxThree">This is my Third Section Box</div>
+</div> 
+
+</body>
+</html>
